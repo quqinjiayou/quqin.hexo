@@ -115,9 +115,9 @@
   margin-top: 0;
   text-align: left;
   a{
-    background: #4d4d4d;
-    color: #fff;
-    font-size: 12px;
+    // background: #4d4d4d;
+    color: #999;
+    font-size: 16px;
     padding: 2px 8px 4px;
     line-height: 16px;
     -webkit-border-radius: 2px;
@@ -125,7 +125,8 @@
     border-radius: 2px;
     transition: background 0.3s;
     &:hover{
-      background: #3c3c3c;
+      // background: #3c3c3c;
+      color: rgb(255, 148, 92)
     }
     &.hidden{
       visibility: hidden;
