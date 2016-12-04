@@ -7,7 +7,7 @@ title: quqin.tech
 subtitle: 茁壮成长
 description:
 author: QuQu
-language:
+language: zh-CN
 timezone:
 
 # URL
@@ -63,10 +63,16 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: material
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
   repo: git@github.com:quqinjiayou/quqin.tech.git
+
+# Search
+## Plugins: https://github.com/PaicHyperionDev/hexo-generator-search
+search:
+  path: search.xml
+  field: post

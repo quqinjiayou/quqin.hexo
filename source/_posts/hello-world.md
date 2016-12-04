@@ -1,6 +1,6 @@
 ---
 title: Hello World
-tag: daily
+category: 关于我
 ---
 拖到现在，自己的博客环境总算在杨buss的帮助下搭起来了，选了quqin.tech这个域名，而非
 quqin.me，可以感受到我诚挚的技术之心吧。
